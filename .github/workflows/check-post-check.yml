@@ -6,7 +6,7 @@ on:
       - "**/*.sol"
 
 permissions
-  contents: read
+  contents: reads
 
 jobs:
   check-post-check:
