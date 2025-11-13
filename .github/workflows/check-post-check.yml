@@ -5,7 +5,7 @@ on:
     paths:
       - "**/*.sol"
 
-permissions:
+permissions
   contents: read
 
 jobs:
